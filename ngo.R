@@ -1,3 +1,4 @@
+# To scrape from NitiAgog website Darpan page for the list of NGOs and combine them into one database.
 library(readr)
 library(xml2)
 library(httr)
